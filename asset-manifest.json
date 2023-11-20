@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://daniel2000815.github.io/csb-lkfyvy/static/css/main.df5b6559.chunk.css",
+    "main.js": "https://daniel2000815.github.io/csb-lkfyvy/static/js/main.ab04ddb2.chunk.js",
+    "main.js.map": "https://daniel2000815.github.io/csb-lkfyvy/static/js/main.ab04ddb2.chunk.js.map",
+    "runtime-main.js": "https://daniel2000815.github.io/csb-lkfyvy/static/js/runtime-main.e8b4fd75.js",
+    "runtime-main.js.map": "https://daniel2000815.github.io/csb-lkfyvy/static/js/runtime-main.e8b4fd75.js.map",
+    "static/js/2.bf1c2827.chunk.js": "https://daniel2000815.github.io/csb-lkfyvy/static/js/2.bf1c2827.chunk.js",
+    "static/js/2.bf1c2827.chunk.js.map": "https://daniel2000815.github.io/csb-lkfyvy/static/js/2.bf1c2827.chunk.js.map",
+    "index.html": "https://daniel2000815.github.io/csb-lkfyvy/index.html",
+    "static/css/main.df5b6559.chunk.css.map": "https://daniel2000815.github.io/csb-lkfyvy/static/css/main.df5b6559.chunk.css.map",
+    "static/js/2.bf1c2827.chunk.js.LICENSE.txt": "https://daniel2000815.github.io/csb-lkfyvy/static/js/2.bf1c2827.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8b4fd75.js",
+    "static/js/2.bf1c2827.chunk.js",
+    "static/css/main.df5b6559.chunk.css",
+    "static/js/main.ab04ddb2.chunk.js"
+  ]
+}
